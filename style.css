@@ -1,0 +1,83 @@
+.txt {
+    font-size: 18px;
+}
+
+.yellow {
+    color: yellow;
+    font-size: 14px;
+}
+.yellow2 {
+    color: yellow;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.colr {
+    color: green;
+}
+.colr2 {
+    background-color: darkblue;
+}
+
+.f20 {
+    font-size: 20px;
+}
+
+.f24 {
+    font-size: 24px;
+}
+
+.f32 {
+    font-size: 32px;
+    font-weight: 600;
+}
+.bold{
+    font-weight: 900;
+}
+
+.img1 {
+    width: 150px;
+    height: 150px;
+}
+.img2 {
+    width: 80px;
+    height: 80px;
+}
+
+.br {
+    border: 2px black solid;
+    padding: 30px;
+}
+
+.br2 {
+    border: 3px green solid;
+    border-radius: 5%;
+    padding: 12px;
+}
+
+.br1 {
+    
+    border-radius: 5%;
+    padding: 12px;
+}
+
+.pl30{
+    padding-left: 30px;
+}
+.br3{
+    border: 2px gray solid;
+    border-top-left-radius: 10px ;
+    border-top-right-radius: 10px ;
+}
+.br4{
+    border: 2px gray solid;
+}
+.br5{
+    border: 2px gray solid;
+    border-bottom-left-radius: 10px ;
+    border-bottom-right-radius: 10px ;
+}
+.btnsize{
+    height: 50px;
+    width: 240px;
+}
